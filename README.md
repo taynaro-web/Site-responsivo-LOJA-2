@@ -1,1 +1,3 @@
-# Site-responsivo-LOJA-2
+# Site-Responsivo-LOJA
+Site de vendas de semijoias
+
